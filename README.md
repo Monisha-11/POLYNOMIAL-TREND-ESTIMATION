@@ -108,10 +108,13 @@ pred2array = np.array([[pred2]])
 lin2.predict(poly.fit_transform(pred2array))
 
 ```
-## OUTPUT
+## OUTPUTS
 ### A - LINEAR TREND ESTIMATION
 <img width="149" alt="image" src="https://github.com/Monisha-11/POLYNOMIAL-TREND-ESTIMATION/assets/93427240/a7af1bfe-58c9-4c8d-aa59-893718b6c8ce">
 
 ### B - POLYNOMIAL REGRESSION
 <img width="281" alt="image" src="https://github.com/Monisha-11/POLYNOMIAL-TREND-ESTIMATION/assets/93427240/f2f93fff-50dc-406d-b9c6-443f57f297f6">
 
+## RESULT:
+
+Thus the program run successfully based on the Polynomial Trend Estiamtion model.
